@@ -1,7 +1,7 @@
 # 🌩️ Cloud-Native Intelligent MLOps & FinOps Platform  
 
 ### 👥 Team: **CloudQuad**  
-**Members:** Poojana S · Poonguzhali S · Nithesh S N · Naveen Prasanth P  
+**Members:** Poojana S · Poonguzhali C · Nithesh S N · Naveen Prasanth P  
 
 ---
 
